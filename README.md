@@ -1,6 +1,6 @@
 # TedsWoodworking Plans Review 2025 – Real User Feedback & Technical Implementation
 
-![TedsWoodworking Collection](assets/tedswoodworking-box.jpg)
+![Teds Reviews Logo](assets/teds-reviews-logo.aif)
 
 Welcome to our **TedsWoodworking Review 2025** project – combining **real woodworking experience** with a technical showcase of how we built this review platform using **Laravel** and **Docker**.  
 If you’ve been wondering whether the **16,000 woodworking projects** inside TedsWoodworking are worth your time and money, this is the place to find out.
