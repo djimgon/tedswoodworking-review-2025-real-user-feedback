@@ -44,8 +44,8 @@ Find out if this massive woodworking collection is worth your investment.
 ## 📷 Screenshots & Media
 | Feature | Preview |
 |---------|---------|
-| Member’s Area | ![Members Area](assets/members-area.jpg) |
-| Example Plan | ![Plan Example](assets/example-plan.jpg) |
+| Member’s Area | ![Members Area]([assets/members-area.jpg](https://github.com/djimgon/tedswoodworking-review-2025-real-user-feedback/raw/main/woodworking.jpg)) |
+| Example Plan | ![Plan Example]([assets/example-plan.jpg](https://github.com/djimgon/tedswoodworking-review-2025-real-user-feedback/raw/main/1.jpg)) |
 
 ---
 
